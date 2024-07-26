@@ -55,3 +55,21 @@ HTTP é muito mais do que as primeiras letras que digitamos em um navegador para
 Oque REST, e qual a sua relação com o protocolo HTTP?
 Essencialmente, Rest é Representational State Transfer que, em português, é “Transferência de Estado Representacional”. Por sua definição, trata-se de um conjunto de princípios e definições necessário para a criação de um projeto com interfaces bem definidas. É, na verdade, uma abstração da arquitetura da Web.
 REST é um protocolo de comunicação, baseado no protocolo de hipermídia HTTP. Porém ele não impõe restrições ao formato da mensagem, apenas no comportamento dos componentes envolvidos. A maior vantagem do protocolo REST é sua flexibilidade.
+
+
+## Desafio 4
+Em uma arquitetura típica de software, como geralmente encontrada em aplicações baseadas em padrões de projeto como MVC (Model-View-Controller) ou similar, as responsabilidades das camadas Entity, Controller, Repository e Service são distribuídas da seguinte forma:
+
+•	Entity (Entidade): Representa os dados da aplicação e pode incluir métodos relacionados à manipulação desses dados.
+•	Controller (Controlador): Gerencia o fluxo de requisições, interpretando entradas do usuário e coordenando a resposta da aplicação.
+•	Repository (Repositório): Abstrai o acesso aos dados, fornecendo métodos para persistir e recuperar objetos de dados.
+•	Service (Serviço): Implementa a lógica de negócios da aplicação, orquestrando operações complexas entre entidades e repositórios.
+Essas camadas ajudam a separar preocupações e melhorar a manutenibilidade, escalabilidade e testabilidade do software.
+•	Entity (Entidade): Representa os dados da aplicação e pode incluir métodos relacionados à manipulação desses dados.
+•	Controller (Controlador): Gerencia o fluxo de requisições, interpretando entradas do usuário e coordenando a resposta da aplicação.
+•	Repository (Repositório): Abstrai o acesso aos dados, fornecendo métodos para persistir e recuperar objetos de dados.
+•	Service (Serviço): Implementa a lógica de negócios da aplicação, orquestrando operações complexas entre entidades e repositórios.
+Essas camadas ajudam a separar preocupações e melhorar a manutenibilidade, escalabilidade e testabilidade do software.
+
+
+
