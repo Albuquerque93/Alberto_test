@@ -45,3 +45,13 @@ Vantagens da POO:
 2.	Reutilização de Código.
 3.	Manutenção Simplificada.
 4.	Colaboração Eficiente.
+
+## Desafio 3
+Protocolos de Comunicação:
+HTTP é um protocolo de transferência que possibilita que as pessoas que inserem a URL do seu site na Web possam ver os conteúdos e dados que nele existem. A sigla vem do inglês Hypertext Transfer Protocol.
+Um dos caminhos para aumentar a visibilidade e vendas do seu negócio é o Marketing Digital. E o principal canal deste tipo de estratégia é um site. E quando este é o assunto, é fundamental que você, como dono da sua empresa e, consequentemente, do seu site, saiba o que é HTTP.
+HTTP é muito mais do que as primeiras letras que digitamos em um navegador para acessar um site. Para que você compreenda como ele funciona, redigimos este post e convidamos você a ficar conosco até o final dele.
+
+Oque REST, e qual a sua relação com o protocolo HTTP?
+Essencialmente, Rest é Representational State Transfer que, em português, é “Transferência de Estado Representacional”. Por sua definição, trata-se de um conjunto de princípios e definições necessário para a criação de um projeto com interfaces bem definidas. É, na verdade, uma abstração da arquitetura da Web.
+REST é um protocolo de comunicação, baseado no protocolo de hipermídia HTTP. Porém ele não impõe restrições ao formato da mensagem, apenas no comportamento dos componentes envolvidos. A maior vantagem do protocolo REST é sua flexibilidade.
