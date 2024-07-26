@@ -73,3 +73,16 @@ Essas camadas ajudam a separar preocupações e melhorar a manutenibilidade, esc
 
 
 
+## Desafio 5
+Oque é um padrão de projeto e porque utilizamos?
+Um padrão de projeto é uma solução reutilizável para um problema comum no desenvolvimento de software. Ele descreve uma abordagem testada e aprovada para resolver problemas específicos de design de software, facilitando a criação de sistemas mais robustos, flexíveis e escaláveis.
+Utilizar padrões de projeto ajuda a construir sistemas mais eficientes e robustos, ao mesmo tempo em que facilita a colaboração e a manutenção do software.
+Explique o conceito de arquitetura de software e seus Propósitos:
+A arquitetura de software é a estrutura geral de sistema de software, definindo seus componentes, suas interações e as diretrizes para seus design e evolução.
+Proposito:
+Organização: Estrutura o sistema em módulos ou componentes.
+Facilitação de mudanças: Acomoda futuras alterações e melhorias.
+Comunicação: Facilita o entendimento entre todos os envolvidos.
+Decisões técnicas: Orienta escolhas tecnológicas e metodológicas.
+Qualidade: Assegura desempenho, escalabilidade, segurança e manutenibilidade.
+
